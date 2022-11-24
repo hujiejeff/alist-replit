@@ -36,3 +36,7 @@ How to change the database?
 
 ## Password
 The initial password is randomly generated, and you can get it by checking the console logs.
+
+## **Some advises**
+1. Please **delete** the line below "[nix]" in .replit file.
+2. If the password is incorrect ,Please login to the database background to view the password.
